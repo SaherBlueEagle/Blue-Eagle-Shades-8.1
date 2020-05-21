@@ -1,5 +1,5 @@
 # Blue-Eagle-Shades-8.1
-# This is For Educational Pusposes Only ! and User is responsibile for his usage of this Tool
+# This is For Educational Purposes Only ! and User is responsible for his usage of this Tool
 
 # For Example : 
 - Parental Control , Track what your children are doing.
