@@ -8,6 +8,10 @@
 - Personal Control and File Backup , Make sure no one is using your computer when you are away.
 - Other Noble Purposes
 
+# If you like my work, consider buying me a Nescafe coffee Or Energy Drink 🥰 
+
+# Bitcoin : 3LfLEoLpt3XBz7ozwSSsawWSZJruCQSQgx
+
 [![Facebook Button](https://raw.githubusercontent.com/SaherBlueEagle/XPR-2020-Free/master/facebook_button.png)](https://www.facebook.com/NsBleeD/posts/)
 
 [![Bitcoin Donate Button](https://raw.githubusercontent.com/SaherBlueEagle/XPR-2020-Free/master/Bitcoin-Donate-button.png)](https://www.facebook.com/NsBleeD/posts/)
